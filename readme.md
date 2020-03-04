@@ -16,10 +16,10 @@
 
 
 ## PORTFOLIO LINK
-[LINK==>](https://github.com/xeeshanxami)
+[LINK==>] *Github* (https://github.com/xeeshanxami)
 
 ## CONTACT FACEBOOK LINK
-[LINK==>](https://www.facebook.com/xeeshanxami)
+[LINK==>] *Facebook* (https://www.facebook.com/xeshansami)
 
 ## Requirements
 **Minimum version:** Android 4.4(KITKAT) to Android 9.0(Pie)<br>
@@ -29,8 +29,8 @@
 ## License
 ```
     KOTLIN CRUD is a ADD, UPDATE, DELELE, SEARCH app for android, made to easily
-    download videos.
-    Copyright (C) 2018 Loremar Marabillas
+    to use.
+    Copyright (C) 2020 PAXEES
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
